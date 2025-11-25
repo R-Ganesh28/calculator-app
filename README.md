@@ -28,7 +28,7 @@ This project was created as part of my frontend learning journey.
 ---
 
 ## 🌐 Live Demo
-👉 [View Calculator](https://yourusername.github.io/calculator-app/)  
+👉 [View Calculator]([https://r-ganesh28.github.io/calculator-app/])  
 
 ---
 
